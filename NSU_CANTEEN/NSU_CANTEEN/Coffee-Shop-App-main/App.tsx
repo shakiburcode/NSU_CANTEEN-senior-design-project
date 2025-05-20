@@ -6,6 +6,7 @@ import DetailsScreen from './src/screens/DetailsScreen';
 import PaymentScreen from './src/screens/PaymentScreen';
 import SplashScreen from 'react-native-splash-screen';
 
+
 const Stack = createNativeStackNavigator();
 
 const App = () => {
