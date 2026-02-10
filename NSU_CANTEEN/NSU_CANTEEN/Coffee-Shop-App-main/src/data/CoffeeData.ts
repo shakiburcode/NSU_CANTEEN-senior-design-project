@@ -1,4 +1,3 @@
-
 const CoffeeData = [
   {
     id: 'C1',
