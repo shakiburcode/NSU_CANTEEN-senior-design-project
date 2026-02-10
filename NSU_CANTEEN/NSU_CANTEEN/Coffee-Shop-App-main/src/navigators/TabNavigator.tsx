@@ -11,6 +11,7 @@ import CustomIcon from '../components/CustomIcon';
 
 const Tab = createBottomTabNavigator();
 
+
 const TabNavigator = () => {
   return (
     <Tab.Navigator
